@@ -1,0 +1,19 @@
+{
+    "Lua.workspace.library": [
+        "${3rd}/love2d/library"
+    ],
+    "Lua.runtime.version": "LuaJIT",
+    "Lua.diagnostics.globals": [
+        "play",
+        "mainMenu",
+        "gameStates",
+        "gameField",
+        "Class",
+        "Calss",
+        "self",
+        "window_width",
+        "window_height",
+        "cell",
+        "checkCollision"
+    ]
+}
